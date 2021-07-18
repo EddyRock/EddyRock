@@ -13,10 +13,10 @@ As a software engineer, I enjoy using my obsessive attention to fun and details 
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning ReactJS on [The Rolling Scopes](https://rs.school/);
+- 👨🏻‍💻 I’m currently working on my own site;
+- 🚀 I’m currently learning AngularJS;
+- ⚡ I’m currently speaking Russian, English and Ukrainian;
 - 💬 Ask me about anything, I am happy to help;
-- 📝 I’m currently read [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882);
 - 📫 How to reach me: eduardrudniev97@gmail.com;
 
 📈 **My GitHub Stats:**
