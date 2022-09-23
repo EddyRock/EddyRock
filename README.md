@@ -14,7 +14,7 @@ As a software engineer, I enjoy using my obsessive attention to fun and details 
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on my own site;
-- ⚡ I’m currently speaking Russian, English and Ukrainian;
+- ⚡ I’m currently speaking English and Ukrainian;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: eduardrudniev97@gmail.com;
 
