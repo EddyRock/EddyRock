@@ -9,12 +9,12 @@
 
 I am a Frontend Developer. I love programming, gaming, music and sport.
 
-As a software engineer, I enjoy using my obsessive attention to fun and details in development. I like to give an example "Just for fun" by Linus Torvalds, David Diamond. Make ur code better woth fun!
+As a software engineer, I enjoy using my obsessive attention to fun and details in development. Make ur code better with fun!
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working on my own site;
-- ⚡ I’m currently speaking English and Ukrainian;
+- 👨🏻‍💻 I’m currently working on PetInfo;
+- ⚡ I’m currently speaking English (B2) and Ukrainian (C2), Polish (A2).
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: eduardrudniev97@gmail.com;
 
