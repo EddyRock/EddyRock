@@ -11,7 +11,6 @@ As a software engineer, I enjoy using my obsessive attention to fun and details 
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working on PlainPoker;
 - ⚡ I’m currently speaking English (B2) and Ukrainian (C2), Polish (A2).
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: eduardrudnev97@gmail.com;
